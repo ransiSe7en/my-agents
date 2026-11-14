@@ -1,0 +1,12 @@
+# Internship presentation example
+
+The final reference was an 11-slide workplace-style showcase. It used a title, project overview, problem and stakeholders, business and technical context, methods, artefact showcase, a separate demo cue, outcomes, reflection, acknowledgements, and questions. Both the order of the two context sections and the extra cue reflect that particular final deck. Follow a new brief's exact order and count when specified.
+
+The project-level problem was that recurring phone-agent failures were hard to diagnose and Arterial needed repeatable tests to verify fixes. The presenter identified Arterial, clinic receptionists and owners, and callers as distinct stakeholders. Messages Left was one concrete outcome of error analysis and could be shown in the product UI. It served as an example within the broader evaluation project.
+
+The showcase gave two paths to watch for: a call produces a trace, a judgement, and scores, while an agent change can trigger regressions and produce a report. The next slide served as a cue to leave PowerPoint and demonstrate the product separately. In the live walkthrough, the presenter started with a call, found it as a trace in Langfuse, showed how it was judged, and added the example to a dataset. They then ran an experiment using Langfuse and the terminal and showed the dataset results. This let the audience follow the work from a single interaction through evaluation and experimentation. For a new deck, confirm the scenario, tools, and actual sequence before writing the run sheet.
+
+The brief required 20 minutes for the talk and 3–5 minutes for Q&A afterward. Its suggested section minimums total 21½ minutes before Q&A. Treat that as a pacing conflict to resolve against the hard limit, including the switch to the live product and back. The rubric weighted project and discipline knowledge at 40%, communication and critical reflection at 20% each, and professionalism and visual aids at 10% each. Read the new rubric itself for the exact descriptors and any other requirements. For this assignment, the brief allowed AI for editing only.
+
+Use evidence such as a workflow diagram, a readable product result, or a live demonstration to tell the story. Pull requests can substantiate contributions in preparation and notes. The presenter found merge screenshots unnecessary on stage. If a new rubric specifically asks for source code or implementation evidence, show the smallest excerpt that supports the explanation.
+

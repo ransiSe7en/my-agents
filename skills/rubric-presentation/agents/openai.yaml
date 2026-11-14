@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubric Presentation"
+  short_description: "Build presentations around the assessment rubric"
+  default_prompt: "Use $rubric-presentation to review my assessment brief and build or edit my presentation. Ask me for any missing details first."
